@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Océane</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tomanagle&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=oce-prcp&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomanagle&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oce-prcp&layout=compact" />
 
 
 <h2 align="left">Skills </h2>
