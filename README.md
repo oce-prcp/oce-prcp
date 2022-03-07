@@ -55,9 +55,4 @@
 <h3 align="left">Situation :</h3>
 <h4 align="left">With a boy cat ^^</h4>
 <p><img align="left" src="https://user-images.githubusercontent.com/94532496/154979135-69057351-8fb2-4868-b64d-4293d7907abf.gif" width="200" height="200" /></p>
-  <br></br>
-<h3 align="right">Age :</h3>
-<h4 align="right">18 years old</h4>
-<p><img align="right" src="https://user-images.githubusercontent.com/94532496/154982053-b4db5740-603b-4d15-8f64-b48bb73212af.gif" width="250" height="250" /></p>
-
 
