@@ -26,8 +26,3 @@
 
 <h1 align="center">Description</h1>
 <h3 align="center">My Profil</h3>
-
-<h3 align="left">Situation :</h3>
-<h4 align="left">With a boy cat ^^</h4>
-<p><img align="left" src="[https://user-images.githubusercontent.com/94532496/154979135-69057351-8fb2-4868-b64d-4293d7907abf.gif](https://media.discordapp.net/attachments/1014285802873835601/1064508604843036672/Sans_titre_6.png)" width="200" height="200" /></p>
-
