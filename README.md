@@ -12,7 +12,7 @@
 
 <h2 align="center">Actively Learning</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,react,docker,mongodb,mysql,nodejs,git,powershell,linux,php,py,codepen,pr,ps)](https://skillicons.dev)
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,react,docker,mongodb,mysql,nodejs,git,powershell,linux,php,py,codepen,pr,ps)](https://skillicons.dev)</p>
 
 <h2 align="center">Plan to Learn</h2>
 
