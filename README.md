@@ -2,15 +2,18 @@
 
 <h1 align="center">Hi 👋, I'm Océane</h1>
 <h3 align="center">A passionate web developer from France</h3>
- <p><img align="right" src="https://user-images.githubusercontent.com/94532496/154983573-00a2f252-93aa-49aa-9e3a-064129b92f88.gif" width="200" height="200" /></p>
+
   
 📫 How to reach me oceane.princep@outlook.fr
   
-<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="600" height="400" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="600" height="350" /></p>
 
   
 <h2 align="left">Skills </h2>
 
+<br></br>
+<br></br>
+<p><img align="right" src="https://user-images.githubusercontent.com/94532496/154983573-00a2f252-93aa-49aa-9e3a-064129b92f88.gif" width="200" height="200" /></p>
 <br></br>
 <br></br>
 
