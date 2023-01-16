@@ -24,8 +24,6 @@
 
 <p><img align="right" src="https://user-images.githubusercontent.com/94532496/154981087-3f7a680b-7094-495a-b3dc-f252636213db.gif" width="300" height"300" /></p>
 
-<p><img align="center" src="https://user-images.githubusercontent.com/94532496/154983743-c94872c2-bb23-4a99-8c9a-72b3f8ff70d5.jpg" width="1000" height="350" /></p>
-
 <h1 align="center">Description</h1>
 <h3 align="center">My Profil</h3>
 
