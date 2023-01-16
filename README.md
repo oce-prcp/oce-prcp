@@ -24,4 +24,4 @@
 <br></br>
 <br></br>
 
-<p><img align="right" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="700" height="350" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="700" height="350" /></p>
