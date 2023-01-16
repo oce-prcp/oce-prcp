@@ -13,16 +13,5 @@
 
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-
 
 <h2 align="left">Frontend Development </h2>
-
-
-
-<p><img align="right" src="https://user-images.githubusercontent.com/94532496/154981087-3f7a680b-7094-495a-b3dc-f252636213db.gif" width="300" height"300" /></p>
-
-<h1 align="center">Description</h1>
-<h3 align="center">My Profil</h3>
