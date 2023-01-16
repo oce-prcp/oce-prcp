@@ -30,26 +30,6 @@
 <a align="left" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
 
 <p><img align="right" src="https://user-images.githubusercontent.com/94532496/154981087-3f7a680b-7094-495a-b3dc-f252636213db.gif" width="300" height"300" /></p>
-  
-<h2 align="left">Backend Development </h2>
-<p align="left">
-  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  
-  
-<h2 align="left">Mobile App Development </h2>
-<p align="left">  
-  
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> 
-  
-<h2 align="left">Database </h2> 
-<p align="left">
-  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-
-<h2 align="left">Devops </h2> 
-<p align="left">
-  
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 
 <h1 align="center">Description</h1>
 <h3 align="center">My Profil</h3>
