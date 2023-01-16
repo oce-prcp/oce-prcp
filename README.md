@@ -6,15 +6,17 @@
   
 📫 How to reach me oceane.princep@outlook.fr
   
-<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="400" height="200" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="600" height="400" /></p>
 
   
 <h2 align="left">Skills </h2>
 
+<br></br>
+<br></br>
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oce-prcp&layout=compact" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=oce-prcp&show_icons=true&theme=radical" />
 
-<br></br>
-<br></br>
+
 
 <h2 align="left">Frontend Development </h2>
