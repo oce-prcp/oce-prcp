@@ -36,5 +36,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spotify)](https://skillicons.dev)
 
 
