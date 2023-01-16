@@ -30,12 +30,11 @@
 
 
 <br></br>
-<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="800" height="400" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="900" height="400" /></p>
 </br>
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-</br>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 
 
