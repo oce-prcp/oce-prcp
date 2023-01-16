@@ -9,7 +9,9 @@
 
 📍 Paris  
 📫 How to reach me oceane.princep@outlook.fr
-
+<br></br>
+<br></br>
+<br></br>
 
 <h2 align="center">Actively Learning</h2>
 
@@ -26,6 +28,8 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,tailwind,lua"/>
     </a>
 </p>
+
+<br></br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oce-prcp&layout=compact" />
 
@@ -48,4 +52,3 @@
 <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin"/>
     </a>
 </p>
-https://www.linkedin.com/in/oc%C3%A9ane-princep-48a3b71b5/
