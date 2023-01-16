@@ -10,14 +10,12 @@
   
 <h2 align="left">Skills </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,react,docker,mongodb,mysql,nodejs,git,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,react,docker,mongodb,mysql,nodejs,git,php,py,pr,ps)](https://skillicons.dev)
 
 
 <p><img align="right" src="https://user-images.githubusercontent.com/94532496/154983573-00a2f252-93aa-49aa-9e3a-064129b92f88.gif" width="200" height="200" /></p>
 <br></br>
 <br></br>
-
-[![My Skills](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oce-prcp&layout=compact" />
 
@@ -30,7 +28,14 @@
 <br></br>
 <br></br>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,instagram,)](https://skillicons.dev)
 
 <br></br>
-<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="1000" height="350" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="1000" height="400" /></p>
+</br>
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+</br>
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
+
