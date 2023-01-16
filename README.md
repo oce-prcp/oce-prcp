@@ -30,7 +30,7 @@
 
 
 <br></br>
-<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="1000" height="400" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="800" height="400" /></p>
 </br>
 </br>
 
