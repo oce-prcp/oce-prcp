@@ -10,12 +10,13 @@
   
 <h2 align="left">Skills </h2>
 
-#Actively Learning
+<h2 align="center">Actively Learning</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,react,docker,mongodb,mysql,nodejs,git,powershell,linux,php,py,codepen,pr,ps)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,react,docker,mongodb,mysql,nodejs,git,php,py,pr,ps)](https://skillicons.dev)
+<h2 align="center">Plan to Learn</h2>
 
-#Plan to Learn
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,lua,tailwind)](https://skillicons.dev)
 
 
 <p><img align="right" src="https://user-images.githubusercontent.com/94532496/154983573-00a2f252-93aa-49aa-9e3a-064129b92f88.gif" width="200" height="200" /></p>
@@ -41,5 +42,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
 
 
