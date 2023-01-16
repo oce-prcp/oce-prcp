@@ -16,12 +16,14 @@
 <br></br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oce-prcp&layout=compact" />
+
 <br></br>
 <br></br>
+
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=oce-prcp&show_icons=true&theme=radical" />
 
 <br></br>
 <br></br>
 <br></br>
 
-<p><img align="left" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="700" height="350" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="700" height="350" /></p>
