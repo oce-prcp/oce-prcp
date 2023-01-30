@@ -46,9 +46,3 @@
 <p><img align="center" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="1000" height="400" /></p>
 <br></br>
 
-
-<p align="center">
-    <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=discord,instagram,linkedin"/>
-    </a>
-</p>
