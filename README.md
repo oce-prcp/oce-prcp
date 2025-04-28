@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,mongodb,mysql,nodejs,git,powershell,linux,php,py,ps,pr,flutter&perline=8"/>
+<img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,bootstrap,figma,mongodb,mysql,nodejs,git,powershell,linux,php,py,ps,pr,wordpress&perline=8"/>
     </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,docker,tailwind,lua"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,tailwind,flutter"/>
     </a>
 </p>
 
